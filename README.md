@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucasViniciusSchonrock
 - 👀 I’m interested in work with programming and development
 - 🌱 I’m currently learning C# and Lua
-- ☕ I’m looking to collaborate on company in canada
+- ☕ I want to work in canada
 - 📫 How to reach me just strike up a conversation
 
 <!---
